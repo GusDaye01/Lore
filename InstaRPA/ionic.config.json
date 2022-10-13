@@ -1,0 +1,7 @@
+{
+  "name": "InstaRPA",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
